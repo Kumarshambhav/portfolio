@@ -117,7 +117,7 @@ export default function App() {
             <p className="text-gray-400 mb-6">I build modern web apps, AI interfaces, and innovative tools to solve real-world problems. Let’s innovate together!</p>
             <div className="flex space-x-4 justify-center">
               <a href="mailto:rshambhavkumar@gmail.com" className="bg-gradient-to-r from-purple-500 to-cyan-400 text-black font-bold px-4 py-2 rounded-full hover:scale-105 transition">Contact me →</a>
-              <a href="https://ibb.co/prv6Z63p" className="bg-white text-black font-bold px-4 py-2 rounded-full hover:scale-105 transition">My resume ↓</a>
+              <a href="https://pdf.ac/2qKP9x" className="bg-white text-black font-bold px-4 py-2 rounded-full hover:scale-105 transition">My resume ↓</a>
             </div>
           </div>
         </section>
@@ -127,9 +127,10 @@ export default function App() {
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             {[
               {
-                title: "TechThreads",
-                desc: "Social media platform for techies to share and connect.",
-                img: "https://i.ibb.co/GvDq1DJ5/hookle-app-yt-Aq-Rq-KKb-QI-unsplash.jpg"
+                title: "CodeReview",
+                desc: "Enhanced Code quality through AI - driven Suggestions.",
+                img: "https://i.ibb.co/GvDq1DJ5/hookle-app-yt-Aq-Rq-KKb-QI-unsplash.jpg",
+                link:"https://code-review-teal-six.vercel.app/"
               },
               {
                 title: "Instagram Clone",
