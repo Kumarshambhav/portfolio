@@ -162,6 +162,7 @@ export default function App() {
                 <img src={proj.img} alt={proj.title} className="rounded-lg mb-4" />
                 <h3 className="text-xl font-semibold text-white">{proj.title}</h3>
                 <p className="text-gray-400">{proj.desc}</p>
+                <a href = {proj.link} target="_blank" rel="noopener noreferrer" className="underline hover:text-cyan-400">Link</a>
               </div>
             ))}
           </div>
