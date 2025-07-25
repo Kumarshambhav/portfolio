@@ -111,7 +111,7 @@ export default function App() {
         {/* Hero Section */}
         <section className="pt-20 pb-12 flex flex-col items-center justify-center text-center px-4 bg-[#0f0f0f]">
           <div className="max-w-md">
-            <img src="https://i.ibb.co/1fRZdWCG/Whats-App-Image-2025-07-16-at-18-14-49-1a6366f5.jpg" alt="Profile" className="rounded-full mx-auto mb-4" />
+            <img src="https://ibb.co/5W2S2gJZ" alt="Profile" className="rounded-full mx-auto mb-4" />
             <h1 className="text-3xl md:text-5xl font-bold text-white mb-2">Hi! I'm Shambhav Kumar Rao 👋</h1>
             <p className="text-xl text-gray-300 mb-4">Full Stack Developer & AI Enthusiast</p>
             <p className="text-gray-400 mb-6">I build modern web apps, AI interfaces, and innovative tools to solve real-world problems. Let’s innovate together!</p>
