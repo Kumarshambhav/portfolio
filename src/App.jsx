@@ -129,23 +129,26 @@ export default function App() {
               {
                 title: "CodeReview",
                 desc: "Enhanced Code quality through AI - driven Suggestions.",
-                img: "https://i.ibb.co/GvDq1DJ5/hookle-app-yt-Aq-Rq-KKb-QI-unsplash.jpg",
+                img: "https://i.ibb.co/1fMR1r88/pexels-markusspiske-2764993.jpg",
                 link:"https://code-review-teal-six.vercel.app/"
               },
               {
                 title: "Instagram Clone",
                 desc: "A clone with post, like, comment & auth features.",
-                img: "https://i.ibb.co/rGJRjwMp/deeksha-pahariya-PKJLZul-b-Ug-unsplash.jpg"
+                img: "https://i.ibb.co/rGJRjwMp/deeksha-pahariya-PKJLZul-b-Ug-unsplash.jpg",
+                link: "https://github.com/Kumarshambhav/Instaclone"
               },
               {
                 title: "ERA Montage",
                 desc: "Memory sharing website for MMMUT students.",
-                img: "https://i.ibb.co/j9Yj5Y7z/karina-lago-w-Euc-G-s-LRs-Y-unsplash.jpg"
+                img: "https://i.ibb.co/j9Yj5Y7z/karina-lago-w-Euc-G-s-LRs-Y-unsplash.jpg",
+                link: "https://github.com/Kumarshambhav/eraMontage"
               },
               {
                 title: "Gemini Clone",
                 desc: "Google Gemini AI UI clone with conversation features.",
-                img: "https://i.ibb.co/21snqhVC/solen-feyissa-Rwo-T2g5-SGRw-unsplash.jpg"
+                img: "https://i.ibb.co/21snqhVC/solen-feyissa-Rwo-T2g5-SGRw-unsplash.jpg",
+                link: "https://github.com/Kumarshambhav/gimini"  
               },
               {
                 title: "Hostel Food Waste Reduction App",
