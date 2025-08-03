@@ -174,7 +174,7 @@ export default function App() {
         {/* Skills */}
         <Section title="Skills">
           <div className="flex flex-wrap gap-4 justify-center text-white text-lg">
-            {["HTML", "CSS", "JavaScript", "ReactJs", "NextJs", "Java", "C++", "MongoDB", "MySQL", "NodeJs", "ExpressJs"].map((skill, idx) => (
+            {["LangChain","RAG","HTML", "CSS", "JavaScript", "ReactJs", "NextJs", "Java", "C++", "MongoDB", "MySQL", "NodeJs", "ExpressJs"].map((skill, idx) => (
               <span key={idx} className="bg-gray-800 px-4 py-2 rounded-full shadow-md border border-cyan-500">
                 {skill}
               </span>
